@@ -74,7 +74,37 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 <div align="center">
 
-[![stack](https://skillicons.dev/icons?i=rust,c,linux,bash,docker,kubernetes,postgres,redis,wasm,git&theme=dark&perline=10)](https://skillicons.dev)
+**`languages`**
+
+[![languages](https://skillicons.dev/icons?i=rust,cpp,c,cs,python,javascript,react,html,css,bash&theme=dark&perline=10)](https://skillicons.dev)
+
+**`systems · infra`**
+
+[![infra](https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,wasm,git,vim&theme=dark&perline=8)](https://skillicons.dev)
+
+**`ai · ml`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=A855F7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=A855F7)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=A855F7)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D0D0D?style=for-the-badge&logo=huggingface&logoColor=A855F7)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D0D0D?style=for-the-badge&logo=openai&logoColor=A855F7)
+![LangChain](https://img.shields.io/badge/LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=A855F7)
+![Anthropic](https://img.shields.io/badge/Anthropic-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=A855F7)
+![NumPy](https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=A855F7)
+![CUDA](https://img.shields.io/badge/CUDA-0D0D0D?style=for-the-badge&logo=nvidia&logoColor=A855F7)
+
+**`offensive security`**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0D0D0D?style=for-the-badge&logo=kalilinux&logoColor=F5B301)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D0D0D?style=for-the-badge&logo=metasploit&logoColor=F5B301)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0D0D0D?style=for-the-badge&logo=burpsuite&logoColor=F5B301)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=F5B301)
+![Nmap](https://img.shields.io/badge/Nmap-0D0D0D?style=for-the-badge&logo=nmap&logoColor=F5B301)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D0D0D?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-0D0D0D?style=for-the-badge)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-0D0D0D?style=for-the-badge&logo=hackthebox&logoColor=F5B301)
+![OWASP](https://img.shields.io/badge/OWASP-0D0D0D?style=for-the-badge&logo=owasp&logoColor=F5B301)
 
 </div>
 
