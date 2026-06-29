@@ -49,6 +49,22 @@ In `README.md`, find the commented `Connect` block, drop in your real X / Linked
 4. Add `<img src="./github-metrics.svg" width="100%" alt="metrics" />` wherever you want it in the README.
    Don't want it? Just delete `metrics.yml`.
 
+## ⚠️ Reliability note — the stats card & trophies (read this)
+
+Two widgets read your data through **GitHub's API server-side**, so they depend on a *shared public instance* that is frequently rate-limited by GitHub:
+
+- `github-readme-stats.vercel.app` (stats + top-languages) → sometimes `503`
+- `github-profile-trophy.vercel.app` (trophies) → sometimes `402`
+
+On a live profile they usually render once the shared instance cools down, but for a **rock-solid, never-blank** profile, self-host the stats card (5 min, free, the move every top profile makes):
+
+1. Go to <https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance> and click **Deploy** (imports the repo to your Vercel + needs a GitHub PAT — the wizard walks you through it).
+2. You'll get your own URL, e.g. `https://your-app.vercel.app`.
+3. In `README.md`, replace **both** `github-readme-stats.vercel.app` hosts with `your-app.vercel.app` (the stats card *and* the top-langs card). Same query params, now zero 503s.
+4. Trophies: the shared instance is the only easy option; it recovers on its own, or you can self-host `ryo-ma/github-profile-trophy` the same way. If you'd rather not risk a blank block, delete the trophy `<img>` — everything else stays gorgeous.
+
+> The pure-renderer widgets (capsule-render hero/footer, typing tagline, skillicons, streak, activity graph, profile views) don't touch the GitHub API and were verified **200 OK** — those never flake.
+
 ## Final check
 
 Open <https://github.com/prodev2025> in **both** light and dark mode. Hero animates, tagline cycles, stats/streak/trophies load, snake plays, footer wave shows. Hard-refresh once if a stats image is cached blank (the free services warm up on first hit).
