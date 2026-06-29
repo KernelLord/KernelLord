@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="-130 -130 260 260" role="img" aria-label="rotating gem">
+  <title>TurboGem</title>
+  <defs>
+    <filter id="gw" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="core"><stop offset="0" stop-color="#FFC83D"/><stop offset="1" stop-color="#B11226"/></radialGradient>
+  </defs>
+  <rect x="-130" y="-130" width="260" height="260" fill="#0D0D0D"/>
+  <g filter="url(#gw)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="11s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1 1;0.18 1;1 1;0.18 1;1 1" dur="4.6s" repeatCount="indefinite" additive="sum"/>
+      <g fill="none" stroke="#A855F7" stroke-width="2">
+        <polygon points="0,-92 72,0 0,92 -72,0"/>
+        <path d="M0,-92 L0,92 M-72,0 L72,0"/>
+        <path d="M0,-92 L-40,0 L0,92 L40,0 Z" stroke="#8B5CF6"/>
+      </g>
+      <polygon points="0,-92 40,0 0,92 -40,0" fill="none" stroke="#F5B301" stroke-width="1.5" opacity="0.9"/>
+    </g>
+  </g>
+  <circle cx="0" cy="0" r="10" fill="url(#core)"><animate attributeName="r" values="6;16;6" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.45;1" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>

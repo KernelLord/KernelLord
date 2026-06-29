@@ -23,6 +23,12 @@
 [![email](https://img.shields.io/badge/email-reach_me-FFC83D?style=for-the-badge&labelColor=0D0D0D&logo=gmail&logoColor=A855F7)](mailto:lashagobejishvili11@gmail.com)
 ![souls](https://komarev.com/ghpvc/?username=KernelLord&style=for-the-badge&color=F5B301&label=SOULS+CLAIMED&abbreviated=true)
 
+<!-- clickable nav — each pill is a committed SVG wrapped in a markdown image-link -->
+[<img src="./nav/repos.svg" height="38" alt="repos" />](https://github.com/KernelLord?tab=repositories)
+[<img src="./nav/stars.svg" height="38" alt="stars" />](https://github.com/KernelLord?tab=stars)
+[<img src="./nav/email.svg" height="38" alt="email" />](mailto:lashagobejishvili11@gmail.com)
+[<img src="./nav/follow.svg" height="38" alt="follow" />](https://github.com/KernelLord)
+
 <!-- Add real URLs, then uncomment — kept out so nothing renders as a dead link.
 [![x](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5B301)](https://x.com/your-handle)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/your-handle)
@@ -70,6 +76,9 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 [![stack](https://skillicons.dev/icons?i=rust,c,linux,bash,docker,kubernetes,postgres,redis,wasm,git&theme=dark&perline=10)](https://skillicons.dev)
 
+<!-- 3D wireframe gem (TurboGem brand-mark) — octahedron yaws via animateTransform -->
+<img width="120" src="./assets/gem.svg" alt="TurboGem" />
+
 </div>
 
 ### `> ./radar --scan`
@@ -81,10 +90,35 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
+### `> btop`
+
+<!-- bespoke system monitor: animated CPU cores, MEM donut, NET sparkline, proc table -->
+<div align="center">
+
+<img width="100%" src="./assets/hud.svg" alt="KernelLord system monitor — CPU cores, MEM, NET, processes" />
+
+</div>
+
+### `> threat-map`
+
+<!-- security ops: attack vectors marching into the defended kernel core -->
+<div align="center">
+
+<img width="100%" src="./assets/threatmap.svg" alt="KernelLord threat map — live intrusion telemetry, status DEFENDED" />
+
+</div>
+
 <!-- gold matrix data-rain band -->
 <div align="center">
 
 <img width="100%" src="./assets/matrix.svg" alt="data rain" />
+
+</div>
+
+<!-- glitch RGB-split datamosh wordmark -->
+<div align="center">
+
+<img width="100%" src="./assets/glitch.svg" alt="KERNELLORD" />
 
 </div>
 
