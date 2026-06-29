@@ -90,14 +90,13 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 ### `> systems log`
 
-<!-- Host note: github-readme-stats.vercel.app is the shared instance and can 429.
-     For 100% uptime AND to surface PRIVATE TurboGem commits as real numbers, deploy
-     your own Vercel fork of anuraghazra/github-readme-stats with a PAT, then swap the
-     hostname below (count_private only counts private work on a self-hosted instance). -->
+<!-- Streak card (streak-stats.demolab.com) is reliable and reads contribution data.
+     The github-readme-stats overview card was removed: its shared host 503s often and
+     reads near-empty with 0 public repos. To add it back once you have public repos,
+     self-host anuraghazra/github-readme-stats on Vercel with a PAT for 100% uptime. -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KernelLord&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=F5B301&icon_color=A855F7&text_color=c9d1d9&bg_color=0D0D0D&ring_color=FFC83D&custom_title=KernelLord%20%2F%2F%20systems%20log" alt="KernelLord stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord streak" />
 
 </div>
 
