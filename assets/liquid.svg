@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-label="KernelLord liquid metal wordmark">
+  <title>KERNELLORD</title>
+  <defs>
+    <linearGradient id="au" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFC83D"/><stop offset="0.5" stop-color="#F5B301"/><stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="liquid" x="-15%" y="-40%" width="130%" height="180%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.008 0.02" numOctaves="2" seed="3" result="w">
+        <animate attributeName="baseFrequency" dur="14s" values="0.008 0.02;0.015 0.032;0.008 0.02" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="w" xChannelSelector="R" yChannelSelector="G" scale="18">
+        <animate attributeName="scale" dur="6s" values="6;26;6" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      </feDisplacementMap>
+      <feGaussianBlur stdDeviation="0.5"/>
+    </filter>
+  </defs>
+  <rect width="760" height="170" fill="#0D0D0D"/>
+  <text x="380" y="112" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-weight="900" font-size="76" letter-spacing="2" fill="url(#au)" filter="url(#liquid)">KERNELLORD</text>
+</svg>

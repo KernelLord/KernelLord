@@ -42,11 +42,17 @@
 
 I architect and ship fast, safe systems — Rust backends, async services, security-first by default. Developer · architect · founder mindset.
 
-<img width="100%" src="./assets/divider.svg" alt="" />
+<!-- procedural feTurbulence plasma nebula (no image data, ~1.6KB) -->
+<div align="center">
+
+<img width="100%" src="./assets/plasma.svg" alt="wake up to reality" />
+
+</div>
 
 ### ⚡ Currently in the forge
 
-<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord" />
+<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord sharingan" />
+<img align="left" width="118" src="./assets/fire.svg" alt="forge ember" />
 
 > **TurboGem** — automotive-AI platform · Rust backend (services, scrapers, a multi-provider AI router) · *private until launch.*
 > Systems over surface. When the repos open, they open loud.
@@ -66,7 +72,21 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt="" />
+### `> ./radar --scan`
+
+<!-- bespoke skills radar: rotating sweep over orbiting domain nodes -->
+<div align="center">
+
+<img width="340" src="./assets/radar.svg" alt="KernelLord skills radar — Rust, AI, Security, Web3, Systems, Async" />
+
+</div>
+
+<!-- gold matrix data-rain band -->
+<div align="center">
+
+<img width="100%" src="./assets/matrix.svg" alt="data rain" />
+
+</div>
 
 ### Contribution aura
 
@@ -85,6 +105,13 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+</div>
+
+<!-- liquid-metal: the wordmark melts/reforms via animated feDisplacementMap -->
+<div align="center">
+
+<img width="640" src="./assets/liquid.svg" alt="KERNELLORD" />
 
 </div>
 

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-label="forge fire">
+  <title>forge</title>
+  <defs>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#B11226"/><stop offset="0.5" stop-color="#F5B301"/><stop offset="1" stop-color="#FFC83D"/>
+    </linearGradient>
+    <filter id="fire" x="-50%" y="-50%" width="200%" height="200%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.045" numOctaves="3" seed="2" result="f">
+        <animate attributeName="baseFrequency" dur="7s" values="0.02 0.045;0.028 0.08;0.02 0.045" repeatCount="indefinite"/>
+        <animate attributeName="seed" dur="2.5s" values="0;14" calcMode="discrete" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="f" yChannelSelector="G" xChannelSelector="R" scale="26">
+        <animate attributeName="scale" dur="4s" values="14;42;14" repeatCount="indefinite"/>
+      </feDisplacementMap>
+      <feGaussianBlur stdDeviation="0.7"/>
+    </filter>
+  </defs>
+  <rect width="300" height="200" fill="#0D0D0D"/>
+  <ellipse cx="150" cy="125" rx="58" ry="78" fill="url(#flame)" filter="url(#fire)"/>
+</svg>
