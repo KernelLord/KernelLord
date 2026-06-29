@@ -21,6 +21,7 @@
 ![mode](https://img.shields.io/badge/mode-building_%5Bprivate%5D-8B5CF6?style=for-the-badge&labelColor=0D0D0D)
 ![threat_model](https://img.shields.io/badge/threat__model-paranoid-B11226?style=for-the-badge&labelColor=0D0D0D&logo=hackthebox&logoColor=F5B301)
 [![email](https://img.shields.io/badge/email-reach_me-FFC83D?style=for-the-badge&labelColor=0D0D0D&logo=gmail&logoColor=A855F7)](mailto:lashagobejishvili11@gmail.com)
+![souls](https://komarev.com/ghpvc/?username=KernelLord&style=for-the-badge&color=F5B301&label=SOULS+CLAIMED&abbreviated=true)
 
 <!-- Add real URLs, then uncomment — kept out so nothing renders as a dead link.
 [![x](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5B301)](https://x.com/your-handle)
@@ -29,26 +30,23 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5B301,50:A855F7,100:B11226&height=2&section=header" alt="" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
-### `> uname -a`
+### `> ./boot`
 
-```text
-        ▲                lashadev@kernellord
-       ▲ ▲               ───────────────────────────────────────
-      ▲ 🟡 ▲             host    : TurboGem · automotive AI   [private]
-     ▲  ▲▲  ▲            kernel  : systems-first · async · zero-unsafe Rust
-    ▲ 🟣  🟡 ▲           shell   : founder-mode — uptime 24/7
-   ▲▲▲▲▲▲▲▲▲▲▲           stack   : Rust · Axum · Postgres · Redis · Docker
-                         focus   : AI · cybersecurity · scalable systems
-                         motto   : build systems, not just code
-```
+<div align="center">
+
+<img width="780" src="./assets/boot.svg" alt="KernelLord boot sequence — rust core, async runtime, security, turbogem services [private], founder-mode" />
+
+</div>
 
 I architect and ship fast, safe systems — Rust backends, async services, security-first by default. Developer · architect · founder mindset.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5B301,50:A855F7,100:B11226&height=2&section=header" alt="" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ### ⚡ Currently in the forge
+
+<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord" />
 
 > **TurboGem** — automotive-AI platform · Rust backend (services, scrapers, a multi-provider AI router) · *private until launch.*
 > Systems over surface. When the repos open, they open loud.
@@ -68,7 +66,7 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5B301,50:A855F7,100:B11226&height=2&section=header" alt="" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ### Contribution aura
 
