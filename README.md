@@ -1,106 +1,106 @@
 <!-- ════════════════════════════════════════════════════════════════
-        prodev2025 · GitHub profile README
-        Dark-neon "aura" aesthetic · cyan #00F5FF → violet #8B5CF6 → magenta #FF00E5 on #0D1117
-        ONE authored hero + tight identity, then restrained grouped widgets:
-        stack · featured pin · numbers · 3 signature contribution visuals.
-        Every widget is live, free, stat-honest, and shares the exact palette.
+        KernelLord · Lasha Dev · GitHub profile README
+        Gold #F5B301 / #FFC83D · Purple #A855F7 / #8B5CF6 · Crimson #B11226 · on #0D0D0D
+        One shared hex tuple across every widget (no stock themes) for a bespoke,
+        cohesive "aura" that matches the custom blinking-eyes banner.
+        Confident-for-0-public-repos: name the private work, don't apologize for it.
 ═════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░ HERO — bespoke, self-animating SVG (lives at assets/hero.svg) ░░░ -->
-<!-- Hand-authored vector banner. Served as an image, so GitHub proxies the bytes
-     and the browser renders the inline CSS @keyframes. (In <img> context only
-     DECLARATIVE animation runs — no JS, no external fonts/images. This SVG uses
-     embedded <path>/<text> + system fonts + CSS only, so it animates.)
-     Relative path => resolves to this repo's default branch automatically,
-     so it works whether the branch is `main` or `master`. -->
+<!-- ░░░ HERO — bespoke blinking-eyes banner (assets/banner.svg) ░░░ -->
+<!-- Hand-authored SVG: the eyes image is embedded as base64 (self-contained, so it
+     survives GitHub's image proxy) and the eyelids blink via SMIL <animate>.
+     Relative path => resolves to the repo's default branch automatically. -->
 <div align="center">
 
-![prodev2025 — Founder of TurboGem · Rust Systems Engineer](./assets/hero.svg)
+<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Two glowing eyes that blink, flanking a gold wordmark." />
 
-**Lasha** — founder of **TurboGem** · Rust backend · systems, web3, security
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5B301&center=true&vCenter=true&width=760&height=46&lines=Building+systems%2C+not+just+code;Rust+%C2%B7+kernels+%C2%B7+cybersecurity+%C2%B7+scale;Founder+of+TurboGem+%E2%80%94+automotive+AI;%22Wake+up+to+reality%22)](https://github.com/KernelLord)
 
-<a href="mailto:lashagobejishvili11@gmail.com"><img src="https://img.shields.io/badge/Email-FF00E5?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- status row — kernel boot-flags as badges -->
+![uname](https://img.shields.io/badge/uname-Rust_x86__64_systems-F5B301?style=for-the-badge&labelColor=0D0D0D&logo=rust&logoColor=A855F7)
+![mode](https://img.shields.io/badge/mode-building_%5Bprivate%5D-8B5CF6?style=for-the-badge&labelColor=0D0D0D)
+![threat_model](https://img.shields.io/badge/threat__model-paranoid-B11226?style=for-the-badge&labelColor=0D0D0D&logo=hackthebox&logoColor=F5B301)
+[![email](https://img.shields.io/badge/email-reach_me-FFC83D?style=for-the-badge&labelColor=0D0D0D&logo=gmail&logoColor=A855F7)](mailto:lashagobejishvili11@gmail.com)
 
 <!-- Add real URLs, then uncomment — kept out so nothing renders as a dead link.
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-0D1117?style=flat&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://your-site.dev"><img src="https://img.shields.io/badge/Website-8B5CF6?style=flat&logo=vercel&logoColor=white" alt="Website" /></a>
+[![x](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5B301)](https://x.com/your-handle)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/your-handle)
 -->
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8B5CF6,100:FF00E5&height=2" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5B301,50:A855F7,100:B11226&height=2&section=header" alt="" />
 
-### `$ whoami`
+### `> uname -a`
 
-Founder of **TurboGem** — an automotive-AI platform — and a **Rust backend engineer** shipping **12K+ lines of production Rust**. I build fast, safe systems with a bias toward performance, security, and clean architecture.
+```text
+        ▲                lashadev@kernellord
+       ▲ ▲               ───────────────────────────────────────
+      ▲ 🟡 ▲             host    : TurboGem · automotive AI   [private]
+     ▲  ▲▲  ▲            kernel  : systems-first · async · zero-unsafe Rust
+    ▲ 🟣  🟡 ▲           shell   : founder-mode — uptime 24/7
+   ▲▲▲▲▲▲▲▲▲▲▲           stack   : Rust · Axum · Postgres · Redis · Docker
+                         focus   : AI · cybersecurity · scalable systems
+                         motto   : build systems, not just code
+```
 
-- **TurboGem** — Rust backend: services, scrapers, a multi-provider AI router for real-time vehicle intelligence
-- **Rust, deeper** — performance-critical async services, zero-cost abstractions, kernel-adjacent ambitions
-- **Stack** — Rust · Python · TypeScript · Docker · PostgreSQL · Redis · Linux
+I architect and ship fast, safe systems — Rust backends, async services, security-first by default. Developer · architect · founder mindset.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5B301,50:A855F7,100:B11226&height=2&section=header" alt="" />
+
+### ⚡ Currently in the forge
+
+> **TurboGem** — automotive-AI platform · Rust backend (services, scrapers, a multi-provider AI router) · *private until launch.*
+> Systems over surface. When the repos open, they open loud.
 
 <div align="center">
 
-[![My stack](https://skillicons.dev/icons?i=rust,python,typescript,docker,postgres,redis,linux,git,bash,solidity&theme=dark&perline=10)](https://skillicons.dev)
+![TurboGem](https://img.shields.io/badge/TurboGem-stealth-0D0D0D?style=for-the-badge&labelColor=8B5CF6&logo=rust&logoColor=F5B301)
+![Pair Extraordinaire](https://img.shields.io/badge/%F0%9F%A4%9D_Pair_Extraordinaire-earned-F5B301?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8B5CF6,100:FF00E5&height=2" alt="" />
+### `> stack`
 
-### Featured
-
-<!-- The pin only renders if a PUBLIC repo named exactly `turbogem-backend` exists
-     under prodev2025. Rename the `repo=` param if your slug differs (local working
-     copy is `turbogem-backend-main`). Themed with exact brand hex (not a preset). -->
 <div align="center">
 
-[![turbogem-backend](https://github-readme-stats.vercel.app/api/pin/?username=prodev2025&repo=turbogem-backend&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=c9d1d9&border_color=8B5CF6)](https://github.com/prodev2025/turbogem-backend)
+[![stack](https://skillicons.dev/icons?i=rust,c,linux,bash,docker,kubernetes,postgres,redis,wasm,git&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
-### By the numbers
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5B301,50:A855F7,100:B11226&height=2&section=header" alt="" />
 
-<!-- Host note: github-readme-stats.vercel.app is the shared public instance and can
-     occasionally 429. For 100% uptime, deploy your own Vercel fork of
-     anuraghazra/github-readme-stats and swap the hostname below. -->
+### Contribution aura
+
+<!-- These read your contribution CALENDAR (not public repos), so they light up with
+     private work once you enable Settings → Profile → "Include private contributions
+     on my profile". Activity graph renders immediately; 3D skyline + snake fill in
+     after their Actions run once (see PUBLISH.md). -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prodev2025&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=FF00E5" alt="prodev2025 GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev2025&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" alt="prodev2025 top languages" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KernelLord&bg_color=0D0D0D&color=c9d1d9&line=F5B301&point=FFC83D&area=true&area_color=A855F7&title_color=F5B301&hide_border=true&custom_title=Contribution%20Aura" alt="KernelLord contribution activity graph" />
 
-</div>
-
-### Contribution graph
-
-<!-- 3D isometric skyline — committed into ./profile-3d-contrib/ by the
-     "GitHub-Profile-3D-Contrib" Action (profile-3d.yml). night-rainbow is the
-     neon dark variant. Blank until that Action runs once — seed it from the
-     Actions tab. Relative path => default-branch agnostic. -->
-<div align="center">
-
-![prodev2025 3D contribution skyline](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-<!-- The snake game — generated by the "Generate Snake" Action (snake.yml) and
-     pushed to the `output` branch as github-snake.svg / github-snake-dark.svg.
-     Different branch, so this MUST be an absolute raw URL. Blank until seeded. -->
-<div align="center">
+![KernelLord 3D contribution skyline](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prodev2025/prodev2025/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prodev2025/prodev2025/output/github-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/prodev2025/prodev2025/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<!-- Neon activity line — renders immediately, no Action needed. -->
+### `> systems log`
+
+<!-- Host note: github-readme-stats.vercel.app is the shared instance and can 429.
+     For 100% uptime AND to surface PRIVATE TurboGem commits as real numbers, deploy
+     your own Vercel fork of anuraghazra/github-readme-stats with a PAT, then swap the
+     hostname below (count_private only counts private work on a self-hosted instance). -->
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prodev2025&hide_border=true&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FF00E5&area=true&area_color=8B5CF6" alt="prodev2025 contribution activity graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KernelLord&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=F5B301&icon_color=A855F7&text_color=c9d1d9&bg_color=0D0D0D&ring_color=FFC83D&custom_title=KernelLord%20%2F%2F%20systems%20log" alt="KernelLord stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord streak" />
 
 </div>
 
-<!-- ░░░ FOOTER WAVE — mirrored gradient bookend (magenta → violet → cyan), echoes the hero ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8B5CF6,100:00F5FF&height=140&section=footer&reversal=true&animation=twinkling" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11226,50:A855F7,100:F5B301&height=140&section=footer&reversal=true&animation=twinkling" alt="" />
