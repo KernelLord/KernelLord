@@ -76,9 +76,6 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 [![stack](https://skillicons.dev/icons?i=rust,c,linux,bash,docker,kubernetes,postgres,redis,wasm,git&theme=dark&perline=10)](https://skillicons.dev)
 
-<!-- 3D wireframe gem (TurboGem brand-mark) — octahedron yaws via animateTransform -->
-<img width="120" src="./assets/gem.svg" alt="TurboGem" />
-
 </div>
 
 ### `> ./radar --scan`
