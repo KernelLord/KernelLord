@@ -1,0 +1,36 @@
+# Generates an isometric 3D contribution skyline daily and commits the SVGs
+# into ./profile-3d-contrib/ in this profile repo (prodev2025/prodev2025).
+# README embeds ./profile-3d-contrib/profile-night-rainbow.svg (dark-neon, most elite).
+# Uses the built-in GITHUB_TOKEN — no PAT setup required.
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily
+  workflow_dispatch:        # run manually from the Actions tab to seed the folder
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Resolves to the repo owner (prodev2025) — no hardcoding.
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: regenerate 3D contribution skyline"; then
+            git push
+          fi
