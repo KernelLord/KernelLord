@@ -38,6 +38,14 @@
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
+### `> repositories`
+
+<div align="center">
+
+[![pickysteve](https://github-readme-stats.vercel.app/api/pin/?username=KernelLord&repo=pickysteve&theme=dark&bg_color=0D0D0D&title_color=F5B301&icon_color=A855F7&text_color=c9d1d9&border_color=8B5CF6&show_owner=true)](https://github.com/KernelLord/pickysteve)
+
+</div>
+
 ### `> ./boot`
 
 <div align="center">
@@ -102,24 +110,6 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
-### `> btop`
-
-<!-- bespoke system monitor: animated CPU cores, MEM donut, NET sparkline, proc table -->
-<div align="center">
-
-<img width="100%" src="./assets/hud.svg" alt="KernelLord system monitor — CPU cores, MEM, NET, processes" />
-
-</div>
-
-### `> threat-map`
-
-<!-- security ops: attack vectors marching into the defended kernel core -->
-<div align="center">
-
-<img width="100%" src="./assets/threatmap.svg" alt="KernelLord threat map — live intrusion telemetry, status DEFENDED" />
-
-</div>
-
 <!-- gold matrix data-rain band -->
 <div align="center">
 
@@ -134,17 +124,9 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
-### Contribution aura
+### Contribution snake
 
-<!-- These read your contribution CALENDAR (not public repos), so they light up with
-     private work once you enable Settings → Profile → "Include private contributions
-     on my profile". Activity graph renders immediately; 3D skyline + snake fill in
-     after their Actions run once (see PUBLISH.md). -->
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KernelLord&bg_color=0D0D0D&color=c9d1d9&line=F5B301&point=FFC83D&area=true&area_color=A855F7&title_color=F5B301&hide_border=true&custom_title=Contribution%20Aura" alt="KernelLord contribution activity graph" />
-
-![KernelLord 3D contribution skyline](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
