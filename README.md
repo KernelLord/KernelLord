@@ -38,14 +38,6 @@
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-### `> ./boot`
-
-<div align="center">
-
-<img width="780" src="./assets/boot.svg" alt="KernelLord boot sequence — rust core, async runtime, security, turbogem services [private], founder-mode" />
-
-</div>
-
 I architect and ship fast, safe systems — Rust backends, async services, security-first by default. Developer · architect · founder mindset.
 
 <!-- procedural feTurbulence plasma nebula (no image data, ~1.6KB) -->
