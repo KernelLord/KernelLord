@@ -47,6 +47,14 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
+### `> repositories`
+
+<div align="center">
+
+[![pickysteve](https://github-readme-stats.vercel.app/api/pin/?username=KernelLord&repo=pickysteve&theme=dark&bg_color=0D0D0D&title_color=F5B301&icon_color=A855F7&text_color=c9d1d9&border_color=8B5CF6&show_owner=true)](https://github.com/KernelLord/pickysteve)
+
+</div>
+
 ### ⚡ Currently in the forge
 
 <img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord sharingan" />
