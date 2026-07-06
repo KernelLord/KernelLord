@@ -38,14 +38,6 @@
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-### `> repositories`
-
-<div align="center">
-
-[![pickysteve](https://github-readme-stats.vercel.app/api/pin/?username=KernelLord&repo=pickysteve&theme=dark&bg_color=0D0D0D&title_color=F5B301&icon_color=A855F7&text_color=c9d1d9&border_color=8B5CF6&show_owner=true)](https://github.com/KernelLord/pickysteve)
-
-</div>
-
 ### `> ./boot`
 
 <div align="center">
@@ -110,20 +102,6 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
 
 </div>
 
-<!-- gold matrix data-rain band -->
-<div align="center">
-
-<img width="100%" src="./assets/matrix.svg" alt="data rain" />
-
-</div>
-
-<!-- glitch RGB-split datamosh wordmark -->
-<div align="center">
-
-<img width="100%" src="./assets/glitch.svg" alt="KERNELLORD" />
-
-</div>
-
 ### Contribution snake
 
 <div align="center">
@@ -133,13 +111,6 @@ I architect and ship fast, safe systems — Rust backends, async services, secur
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
-<!-- liquid-metal: the wordmark melts/reforms via animated feDisplacementMap -->
-<div align="center">
-
-<img width="640" src="./assets/liquid.svg" alt="KERNELLORD" />
 
 </div>
 
