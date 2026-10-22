@@ -1,129 +1,83 @@
-<!-- ════════════════════════════════════════════════════════════════
-        KernelLord · Lasha Dev · GitHub profile README
-        Gold #F5B301 / #FFC83D · Purple #A855F7 / #8B5CF6 · Crimson #B11226 · on #0D0D0D
-        One shared hex tuple across every widget (no stock themes) for a bespoke,
-        cohesive "aura" that matches the custom blinking-eyes banner.
-        Confident-for-0-public-repos: name the private work, don't apologize for it.
-═════════════════════════════════════════════════════════════════ -->
-
-<!-- ░░░ HERO — bespoke blinking-eyes banner (assets/banner.svg) ░░░ -->
-<!-- Hand-authored SVG: the eyes image is embedded as base64 (self-contained, so it
-     survives GitHub's image proxy) and the eyelids blink via SMIL <animate>.
-     Relative path => resolves to the repo's default branch automatically. -->
-<div align="center">
-
-<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Two glowing eyes that blink, flanking a gold wordmark." />
-
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5B301&center=true&vCenter=true&width=760&height=46&lines=Building+systems%2C+not+just+code;Rust+%C2%B7+kernels+%C2%B7+cybersecurity+%C2%B7+scale;Founder+of+TurboGem+%E2%80%94+automotive+AI;%22Wake+up+to+reality%22)](https://github.com/KernelLord)
-
-<!-- status row — kernel boot-flags as badges -->
-![uname](https://img.shields.io/badge/uname-Rust_x86__64_systems-F5B301?style=for-the-badge&labelColor=0D0D0D&logo=rust&logoColor=A855F7)
-![mode](https://img.shields.io/badge/mode-building_%5Bprivate%5D-8B5CF6?style=for-the-badge&labelColor=0D0D0D)
-![threat_model](https://img.shields.io/badge/threat__model-paranoid-B11226?style=for-the-badge&labelColor=0D0D0D&logo=hackthebox&logoColor=F5B301)
-[![email](https://img.shields.io/badge/email-reach_me-FFC83D?style=for-the-badge&labelColor=0D0D0D&logo=gmail&logoColor=A855F7)](mailto:lashagobejishvili11@gmail.com)
-![souls](https://komarev.com/ghpvc/?username=KernelLord&style=for-the-badge&color=F5B301&label=SOULS+CLAIMED&abbreviated=true)
-
-<!-- clickable nav — each pill is a committed SVG wrapped in a markdown image-link -->
-[<img src="./nav/repos.svg" height="38" alt="repos" />](https://github.com/KernelLord?tab=repositories)
-[<img src="./nav/stars.svg" height="38" alt="stars" />](https://github.com/KernelLord?tab=stars)
-[<img src="./nav/email.svg" height="38" alt="email" />](mailto:lashagobejishvili11@gmail.com)
-[<img src="./nav/follow.svg" height="38" alt="follow" />](https://github.com/KernelLord)
-
-<!-- Add real URLs, then uncomment — kept out so nothing renders as a dead link.
-[![x](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=F5B301)](https://x.com/your-handle)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/your-handle)
+<!--
+  KernelLord · Lasha Dev · GitHub Profile README
+  Gold #F5B301 / #FFC83D · Purple #A855F7 / #8B5CF6
+  Crimson #B11226 · Background #0D0D0D
+  Focus: Systems engineering · Rust · Cybersecurity · AI
 -->
-
+<!-- HERO -->
+<div align="center">
+<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Glowing eyes flanking a gold wordmark." />
 </div>
-
 <img width="100%" src="./assets/divider.svg" alt="" />
+<!-- INTRODUCTION -->
 
-I architect and ship fast, safe systems — Rust backends, async services, security-first by default. Developer · architect · founder mindset.
+I build and explore systems with an emphasis on performance, reliability, and security.
 
-<!-- procedural feTurbulence plasma nebula (no image data, ~1.6KB) -->
+My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronous systems, and AI. I care about understanding how things work beneath the surface — from network protocols and operating systems to application architecture and infrastructure.
+
+<div align="center">
+<img width="100%" src="./assets/plasma.svg" alt="Wake up to reality." />
+</div>
+<!-- REPOSITORIES -->
+
+> repositories
+
+<div align="center">
+</div>
+<!-- CURRENT WORK -->
+
+⚡ Currently in the forge
+
+<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord Sharingan" />
+<img align="left" width="118" src="./assets/fire.svg" alt="Forge ember" />
+
+Private builds. Public ambition.
+
+Exploring systems programming, security engineering, automation, and the boundaries of what’s possible with software.
+
+Build quietly. Understand deeply. Ship when it’s ready.
+
+<div align="center">
+</div>
+<!-- TECHNOLOGY STACK -->
+
+> stack
+
 <div align="center">
 
-<img width="100%" src="./assets/plasma.svg" alt="wake up to reality" />
+languages
+
+systems · infrastructure
+
+ai · machine learning
+
+offensive security
 
 </div>
+<!-- SKILLS RADAR -->
 
-### `> repositories`
-
-<div align="center">
-
-[![pickysteve](https://github-readme-stats.vercel.app/api/pin/?username=KernelLord&repo=pickysteve&theme=dark&bg_color=0D0D0D&title_color=F5B301&icon_color=A855F7&text_color=c9d1d9&border_color=8B5CF6&show_owner=true)](https://github.com/KernelLord/pickysteve)
-
-</div>
-
-### ⚡ Currently in the forge
-
-<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord sharingan" />
-<img align="left" width="118" src="./assets/fire.svg" alt="forge ember" />
-
-> **TurboGem** — automotive-AI platform · Rust backend (services, scrapers, a multi-provider AI router) · *private until launch.*
-> Systems over surface. When the repos open, they open loud.
+> ./radar --scan
 
 <div align="center">
-
-![TurboGem](https://img.shields.io/badge/TurboGem-stealth-0D0D0D?style=for-the-badge&labelColor=8B5CF6&logo=rust&logoColor=F5B301)
-![Pair Extraordinaire](https://img.shields.io/badge/%F0%9F%A4%9D_Pair_Extraordinaire-earned-F5B301?style=for-the-badge&labelColor=0D0D0D)
-
-</div>
-
-### `> stack`
-
-<div align="center">
-
-**`languages`**
-
-[![languages](https://skillicons.dev/icons?i=rust,cpp,c,cs,python,javascript,react,html,css,bash&theme=dark&perline=10)](https://skillicons.dev)
-
-**`systems · infra`**
-
-[![infra](https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,wasm,git,vim&theme=dark&perline=8)](https://skillicons.dev)
-
-**`ai · ml`**
-
-<!-- bespoke logo-tile strip (skillicons-style) — full-color logos on dark tiles -->
-![ai](./assets/ai.svg)
-
-**`offensive security`**
-
-![offsec](./assets/offsec.svg)
-
-</div>
-
-### `> ./radar --scan`
-
-<!-- bespoke skills radar: rotating sweep over orbiting domain nodes -->
-<div align="center">
-
 <img width="340" src="./assets/radar.svg" alt="KernelLord skills radar — Rust, AI, Security, Web3, Systems, Async" />
-
 </div>
+<!-- CONTRIBUTION SNAKE -->
 
-### Contribution snake
+> contribution_graph --animate
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
+  <img alt="Snake animation traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
 </picture>
-
 </div>
+<!-- CONTRIBUTION STREAK -->
 
-### `> systems log`
+> systems_log
 
-<!-- Streak card (streak-stats.demolab.com) is reliable and reads contribution data.
-     The github-readme-stats overview card was removed: its shared host 503s often and
-     reads near-empty with 0 public repos. To add it back once you have public repos,
-     self-host anuraghazra/github-readme-stats on Vercel with a PAT for 100% uptime. -->
 <div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord streak" />
-
+<img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord GitHub contribution streak" />
 </div>
-
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11226,50:A855F7,100:F5B301&height=140&section=footer&reversal=true&animation=twinkling" alt="" />
