@@ -51,8 +51,11 @@ systems · infrastructure
 
 ai · machine learning
 
+<img src="./assets/ai.svg" alt="AI and machine learning tools" />
+
 offensive security
 
+<img src="./assets/offsec.svg" alt="Offensive security tools" />
 </div>
 <!-- SKILLS RADAR -->
 
