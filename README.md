@@ -2,11 +2,11 @@
   KernelLord · Lasha Dev · GitHub Profile README
   Gold #F5B301 / #FFC83D · Purple #A855F7 / #8B5CF6
   Crimson #B11226 · Background #0D0D0D
-  Focus: Systems engineering · Rust · Cybersecurity · AI
+  Focus: Systems Engineering · Rust · Cybersecurity · AI
 -->
 <!-- HERO -->
 <div align="center">
-<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Glowing eyes flanking a gold wordmark." />
+<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Two glowing eyes flanking a gold wordmark." />
 </div>
 <img width="100%" src="./assets/divider.svg" alt="" />
 <!-- INTRODUCTION -->
@@ -47,11 +47,21 @@ Build quietly. Understand deeply. Ship when it’s ready.
 
 languages
 
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,python,javascript,react,html,css,bash&theme=dark&perline=10" alt="Languages: Rust, C++, C, C sharp, Python, JavaScript, React, HTML, CSS, Bash" />
+</div>
+<div align="center">
+
 systems · infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,wasm,git,vim&theme=dark&perline=8" alt="Systems and infrastructure: Linux, Docker, Kubernetes, PostgreSQL, Redis, WebAssembly, Git, Vim" />
+</div>
+<div align="center">
 
 ai · machine learning
 
-<img src="./assets/ai.svg" alt="AI and machine learning tools" />
+<img src="./assets/ai.svg" alt="AI and machine learning" />
+</div>
+<div align="center">
 
 offensive security
 
