@@ -1,79 +1,96 @@
-<!-- KernelLord profile README -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,35:B11226,70:A855F7,100:F5B301&height=320&section=header&text=KERNEL%20LORD&fontSize=76&fontColor=F5B301&fontAlignY=40&desc=SYSTEMS%20%7C%20SECURITY%20%7C%20AI&descAlignY=63&descSize=20&descColor=C9D1D9&stroke=8B5CF6&strokeWidth=2&animation=twinkling" alt="Kernel Lord: systems, security, and AI" />
+<!--
+  KernelLord · Lasha Dev · GitHub Profile README
+  Gold #F5B301 / #FFC83D · Purple #A855F7 / #8B5CF6
+  Crimson #B11226 · Background #0D0D0D
+  Focus: Systems Engineering · Rust · Cybersecurity · AI
+-->
+<!-- HERO -->
+<div align="center">
+<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Two glowing eyes flanking a gold wordmark." />
+</div>
+<img width="100%" src="./assets/divider.svg" alt="" />
+<!-- INTRODUCTION -->
+
+I build and explore systems with an emphasis on performance, reliability, and security.
+
+My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronous systems, and AI. I care about understanding how things work beneath the surface — from network protocols and operating systems to application architecture and infrastructure.
 
 <div align="center">
-  <a href="https://github.com/KernelLord?tab=followers"><img src="https://img.shields.io/github/followers/KernelLord?label=FOLLOW%20THE%20SIGNAL&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" alt="Follow KernelLord" /></a>
-  <a href="https://github.com/KernelLord/pickysteve"><img src="https://img.shields.io/github/stars/KernelLord/pickysteve?label=PICKYSTEVE%20STARS&style=for-the-badge&color=FFC83D&labelColor=0D0D0D" alt="Pickysteve stars" /></a>
-  <a href="https://github.com/KernelLord/KernelLord/issues"><img src="https://img.shields.io/badge/CONTACT-OPEN%20AN%20ISSUE-B11226?style=for-the-badge&labelColor=0D0D0D" alt="Open an issue" /></a>
+<img width="100%" src="./assets/plasma.svg" alt="Wake up to reality." />
 </div>
+<!-- REPOSITORIES -->
+
+> repositories
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F5B301&center=true&vCenter=true&width=760&lines=systems+that+survive+contact+with+reality;secure+automation+for+people+who+read+the+logs;build+quietly.+ship+what+survives." alt="Typing animation with KernelLord principles" /></a>
 </div>
+<!-- CURRENT WORK -->
 
-## `whoami`
+⚡ Currently in the forge
 
-I’m **Lasha Dev**, a systems builder working where **automation, security, developer tooling, and AI** meet.
+<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord Sharingan" />
+<img align="left" width="118" src="./assets/fire.svg" alt="Forge ember" />
 
-I care about fast paths you can explain, protocols you can inspect, automation you can trust, and tools that make hard work feel obvious.
+Private builds. Public ambition.
 
-## `active_build`
+Exploring systems programming, security engineering, automation, and the boundaries of what’s possible with software.
+
+Build quietly. Understand deeply. Ship when it’s ready.
 
 <div align="center">
-  <a href="https://github.com/KernelLord/pickysteve"><img width="78%" src="https://github-readme-stats.vercel.app/api/pin/?username=KernelLord&repo=pickysteve&theme=dark&bg_color=0D0D0D&title_color=F5B301&text_color=C9D1D9&icon_color=A855F7&border_color=8B5CF6" alt="Pickysteve repository card" /></a>
 </div>
+<!-- TECHNOLOGY STACK -->
 
-### [Pickysteve](https://github.com/KernelLord/pickysteve)
+> stack
 
-A skill router and context picker for Claude Code, Cursor, and Aider. It chooses the right skill for each prompt and filters prompt injection patterns before they reach the tool layer.
+<div align="center">
 
-`PYTHON` · `AI AGENTS` · `MCP` · `PROMPT SECURITY`
+languages
 
-[**Open Pickysteve**](https://github.com/KernelLord/pickysteve)
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,python,javascript,react,html,css,bash&theme=dark&perline=10" alt="Languages: Rust, C++, C, C sharp, Python, JavaScript, React, HTML, CSS, Bash" />
+</div>
+<div align="center">
 
-## `stack --loaded`
+systems · infrastructure
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,cpp,c,python,typescript,javascript,bash,linux,docker,kubernetes,postgres,redis,git,vim&theme=dark&perline=7" alt="Rust, C++, C, Python, TypeScript, JavaScript, Bash, Linux, Docker, Kubernetes, PostgreSQL, Redis, Git, and Vim" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,wasm,git,vim&theme=dark&perline=8" alt="Systems and infrastructure: Linux, Docker, Kubernetes, PostgreSQL, Redis, WebAssembly, Git, Vim" />
+</div>
+<div align="center">
 
-## `signal`
+ai · machine learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KernelLord&bg_color=0D0D0D&color=C9D1D9&line=A855F7&point=F5B301&area=true&hide_border=true&custom_title=KernelLord%20activity%20signal" alt="KernelLord GitHub activity graph" />
-</p>
+<img src="./assets/ai.svg" alt="AI and machine learning" />
+</div>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KernelLord&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="KernelLord GitHub trophies" /></a>
-</p>
+offensive security
 
-## `telemetry`
+<img src="./assets/offsec.svg" alt="Offensive security tools" />
+</div>
+<!-- SKILLS RADAR -->
 
-<p align="center">
-  <a href="https://github.com/KernelLord/KernelLord"><img height="180" src="https://github-readme-stats.vercel.app/api?username=KernelLord&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5B301&text_color=C9D1D9&icon_color=A855F7&ring_color=A855F7&include_all_commits=true" alt="KernelLord GitHub stats" /></a>
-  <a href="https://github.com/KernelLord/KernelLord"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelLord&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F5B301&text_color=C9D1D9&icon_color=A855F7&langs_count=8" alt="KernelLord top languages" /></a>
-</p>
+> ./radar --scan
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=C9D1D9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord GitHub contribution streak" />
-</p>
+<div align="center">
+<img width="340" src="./assets/radar.svg" alt="KernelLord skills radar — Rust, AI, Security, Web3, Systems, Async" />
+</div>
+<!-- CONTRIBUTION SNAKE -->
 
-## `contribution_matrix`
+> contribution_graph --animate
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
-    <img alt="KernelLord contribution graph rendered as a snake" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
+  <img alt="Snake animation traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+<!-- CONTRIBUTION STREAK -->
 
-<p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="KernelLord three dimensional GitHub contribution calendar" />
-</p>
+> systems_log
 
-## `connect`
-
-If you’re building something that needs to be **fast, secure, observable, or difficult to break**, [open an issue](https://github.com/KernelLord/KernelLord/issues).
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11226,50:A855F7,100:F5B301&height=140&section=footer&reversal=true&animation=twinkling" alt="Gold, purple, and crimson footer" />
+<div align="center">
+<img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord GitHub contribution streak" />
+</div>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11226,50:A855F7,100:F5B301&height=140&section=footer&reversal=true&animation=twinkling" alt="" />
