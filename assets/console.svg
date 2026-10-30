@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img" aria-label="KernelLord terminal console: pickysteve online, systems nominal.">
+  <title>kernel console // pickysteve online</title>
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#B11226"/><stop offset="0.5" stop-color="#A855F7"/><stop offset="1" stop-color="#F5B301"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="918" height="298" rx="14" fill="#090b10" stroke="url(#edge)" stroke-opacity=".8"/>
+  <rect x="1" y="1" width="918" height="38" rx="14" fill="#141721"/><rect x="1" y="26" width="918" height="13" fill="#141721"/>
+  <circle cx="25" cy="20" r="6" fill="#B11226"/><circle cx="45" cy="20" r="6" fill="#F5B301"/><circle cx="65" cy="20" r="6" fill="#54E59A"/>
+  <text x="460" y="25" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">kernel@forge:~ // operator console</text>
+  <text x="28" y="72" fill="#54E59A" font-family="monospace" font-size="14">[ online ]</text><text x="120" y="72" fill="#c9d1d9" font-family="monospace" font-size="14">pickysteve --route --harden --ship</text>
+  <text x="28" y="101" fill="#F5B301" font-family="monospace" font-size="13">identity</text><text x="150" y="101" fill="#c9d1d9" font-family="monospace" font-size="13">Lasha Dev / KernelLord</text>
+  <text x="28" y="125" fill="#A855F7" font-family="monospace" font-size="13">mode</text><text x="150" y="125" fill="#c9d1d9" font-family="monospace" font-size="13">systems · security · AI tooling</text>
+  <text x="28" y="149" fill="#B11226" font-family="monospace" font-size="13">rule</text><text x="150" y="149" fill="#c9d1d9" font-family="monospace" font-size="13">make the hard thing observable</text>
+  <line x1="28" y1="174" x2="892" y2="174" stroke="#8B5CF6" stroke-opacity=".35"/>
+  <text x="28" y="201" fill="#7d8590" font-family="monospace" font-size="12">SIGNAL</text><text x="250" y="201" fill="#7d8590" font-family="monospace" font-size="12">LOAD</text><text x="500" y="201" fill="#7d8590" font-family="monospace" font-size="12">STATE</text><text x="700" y="201" fill="#7d8590" font-family="monospace" font-size="12">TRACE</text>
+  <rect x="28" y="214" width="190" height="10" rx="4" fill="#161922"/><rect x="28" y="214" width="132" height="10" rx="4" fill="#F5B301"><animate attributeName="width" values="92;165;124;180;132" dur="3s" repeatCount="indefinite"/></rect>
+  <rect x="250" y="214" width="190" height="10" rx="4" fill="#161922"/><rect x="250" y="214" width="98" height="10" rx="4" fill="#A855F7"><animate attributeName="width" values="145;72;188;104;145" dur="2.6s" repeatCount="indefinite"/></rect>
+  <circle cx="522" cy="219" r="6" fill="#54E59A" filter="url(#glow)"/><text x="540" y="224" fill="#54E59A" font-family="monospace" font-size="12">NOMINAL</text>
+  <path d="M700 224 L715 215 L730 226 L745 210 L760 220 L775 205 L790 218 L805 208 L820 220 L835 211 L850 220 L865 207" fill="none" stroke="#F5B301" stroke-width="2"><animate attributeName="d" dur="2.8s" repeatCount="indefinite" values="M700 224 L715 215 L730 226 L745 210 L760 220 L775 205 L790 218 L805 208 L820 220 L835 211 L850 220 L865 207;M700 218 L715 223 L730 210 L745 221 L760 207 L775 219 L790 211 L805 224 L820 207 L835 219 L850 210 L865 221;M700 224 L715 215 L730 226 L745 210 L760 220 L775 205 L790 218 L805 208 L820 220 L835 211 L850 220 L865 207"/></path>
+  <text x="28" y="269" fill="#8b949e" font-family="monospace" font-size="12">$ build quietly</text><text x="166" y="269" fill="#F5B301" font-family="monospace" font-size="12">▮</text>
+</svg>

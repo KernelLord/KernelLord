@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/KernelLord?tab=followers"><img src="https://img.shields.io/github/followers/KernelLord?label=FOLLOW%20THE%20SIGNAL&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" alt="Follow KernelLord" /></a>
-  <a href="https://github.com/KernelLord?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-OPEN-FFC83D?style=for-the-badge&labelColor=0D0D0D" alt="Open repositories" /></a>
+  <a href="https://github.com/KernelLord/pickysteve"><img src="https://img.shields.io/github/stars/KernelLord/pickysteve?label=PICKYSTEVE%20STARS&style=for-the-badge&color=FFC83D&labelColor=0D0D0D" alt="Pickysteve stars" /></a>
   <a href="https://github.com/KernelLord/KernelLord/issues"><img src="https://img.shields.io/badge/CONTACT-OPEN%20AN%20ISSUE-B11226?style=for-the-badge&labelColor=0D0D0D" alt="Open an issue" /></a>
 </div>
 
@@ -13,37 +13,42 @@
 
 ## `whoami`
 
-I’m **Lasha Dev** — a systems builder working where **Rust, security, infrastructure, and AI** meet.
+I’m **Lasha Dev** — a systems builder working where **automation, security, developer tooling, and AI** meet.
 
-I like software with a pulse: fast paths you can explain, protocols you can inspect, automation you can trust, and interfaces that make complex systems feel inevitable. This is the public command center for that work.
+I like software with a pulse: fast paths you can explain, protocols you can inspect, automation you can trust, and interfaces that make complex systems feel inevitable.
 
 > **Build quietly. Understand deeply. Ship what survives.**
 
 <div align="center">
-  <img width="100%" src="./assets/plasma.svg" alt="Wake up to reality." />
+  <img width="100%" src="./assets/plasma.svg" alt="KernelLord forge signal." />
 </div>
 
-## `current_mission`
+## `operator_console`
 
 <div align="center">
-  <img width="82%" src="./assets/hud.svg" alt="KernelLord system monitor: systems engineering, security, AI, and infrastructure." />
+  <img width="88%" src="./assets/console.svg" alt="KernelLord terminal console: Pickysteve online, systems nominal." />
 </div>
 
-- **Systems:** Rust services, async architectures, Linux, performance, and the layers most people skip.
-- **Security:** offensive thinking, threat modeling, secure defaults, and making attack surfaces legible.
-- **AI infrastructure:** practical agent tooling, context engineering, retrieval, and the control plane around models.
+- **Systems:** Rust, Linux, async architectures, performance, and the layers most people skip.
+- **Security:** secure defaults, attack-surface reduction, prompt-injection resistance, and making failure legible.
+- **AI tooling:** practical agent workflows, context routing, and developer tools that stay out of the way.
 - **Operating principle:** no magic boxes — if it matters, trace it, test it, and make it observable.
 
-## `featured_builds`
+## `active_build`
 
-| Build | What it does | Signal |
-|---|---|---|
-| [**turbogem-backend**](https://github.com/KernelLord/turbogem-backend) | Hardened Rust backend with Axum, Argon2id, and ML-KEM-768 post-quantum cryptography. | `RUST` `SECURITY` `PQC` |
-| [**pickysteve**](https://github.com/KernelLord/pickysteve) | Skill router and context picker for Claude Code, Cursor, and Aider, with prompt-injection filtering for MCP. | `PYTHON` `AI` `MCP` |
-| [**awesome-secure-mcp-servers**](https://github.com/KernelLord/awesome-secure-mcp-servers) | A curated map of MCP servers with security validation through an MCP scanning pipeline. | `SECURITY` `RESEARCH` |
-| [**turbogem-audit**](https://github.com/KernelLord/turbogem-audit) | Architecture blueprint, code-review findings, audit archive, and improvement roadmap for TurboGem. | `AUDIT` `ARCHITECTURE` |
+<div align="center">
+  <a href="https://github.com/KernelLord/pickysteve">
+    <img width="78%" src="https://github-readme-stats.vercel.app/api/pin/?username=KernelLord&repo=pickysteve&theme=dark&bg_color=0D0D0D&title_color=F5B301&text_color=C9D1D9&icon_color=A855F7&border_color=8B5CF6" alt="Pickysteve repository card" />
+  </a>
+</div>
 
-[**Browse every repository →**](https://github.com/KernelLord?tab=repositories)
+### [Pickysteve](https://github.com/KernelLord/pickysteve)
+
+A skill router and context picker for Claude Code, Cursor, and Aider. It chooses the right skill for each prompt while filtering prompt-injection patterns before they reach the tool layer.
+
+`PYTHON` · `AI AGENTS` · `MCP` · `PROMPT SECURITY`
+
+[**Open Pickysteve →**](https://github.com/KernelLord/pickysteve)
 
 ## `stack --loaded`
 
@@ -57,13 +62,18 @@ I like software with a pulse: fast paths you can explain, protocols you can insp
   <img src="./assets/offsec.svg" alt="Offensive security stack" />
 </div>
 
-## `threat_model`
+## `kernel_principles`
 
 <div align="center">
-  <img width="78%" src="./assets/threatmap.svg" alt="KernelLord threat map: inspect, isolate, harden, verify." />
+  <img width="78%" src="./assets/threatmap.svg" alt="KernelLord system map: inspect, isolate, harden, verify." />
 </div>
 
-I’m interested in the seam between capability and control: secure agent systems, resilient backends, protocol design, developer tooling, and the places where a single assumption can become an exploit.
+| Principle | Implementation |
+|---|---|
+| **Observe first** | Logs, traces, metrics, and readable failure modes before clever abstractions. |
+| **Least privilege** | Small surfaces, explicit boundaries, and no trust granted by accident. |
+| **Automate the boring** | Let tools handle repetition so attention stays on the hard edge of the problem. |
+| **Ship the proof** | A working artifact beats a dramatic claim. |
 
 ## `activity --watch`
 
