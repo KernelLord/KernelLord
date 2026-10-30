@@ -6,6 +6,7 @@ This repository is the public profile README for [github.com/KernelLord](https:/
 
 | Component | Role |
 |---|---|
+| [Capsule Render](https://github.com/kyechan99/capsule-render) | Animated venom header and footer |
 | [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Animated profile principles under the hero |
 | [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) | Pickysteve pin, account stats, and language card |
 | [Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) | Recent activity signal with custom colors |
@@ -13,7 +14,6 @@ This repository is the public profile README for [github.com/KernelLord](https:/
 | [Skill Icons](https://github.com/tandpfun/skill-icons) | Technology stack |
 | [Platane Snake](https://github.com/Platane/snk) | Contribution graph animation |
 | [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | Three dimensional contribution calendar |
-| [Capsule Render](https://github.com/kyechan99/capsule-render) | Footer treatment |
 
 The profile intentionally features only the public [Pickysteve](https://github.com/KernelLord/pickysteve) build.
 

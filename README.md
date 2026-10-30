@@ -1,7 +1,5 @@
 <!-- KernelLord profile README -->
-<div align="center">
-  <img width="100%" src="./assets/banner.svg" alt="KernelLord: Lasha Dev and systems builder" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,35:B11226,70:A855F7,100:F5B301&height=320&section=header&text=KERNEL%20LORD&fontSize=76&fontColor=F5B301&fontAlignY=40&desc=SYSTEMS%20%7C%20SECURITY%20%7C%20AI&descAlignY=63&descSize=20&descColor=C9D1D9&stroke=8B5CF6&strokeWidth=2&animation=twinkling" alt="Kernel Lord: systems, security, and AI" />
 
 <div align="center">
   <a href="https://github.com/KernelLord?tab=followers"><img src="https://img.shields.io/github/followers/KernelLord?label=FOLLOW%20THE%20SIGNAL&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" alt="Follow KernelLord" /></a>
