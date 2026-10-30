@@ -1,96 +1,92 @@
-<!--
-  KernelLord · Lasha Dev · GitHub Profile README
-  Gold #F5B301 / #FFC83D · Purple #A855F7 / #8B5CF6
-  Crimson #B11226 · Background #0D0D0D
-  Focus: Systems Engineering · Rust · Cybersecurity · AI
--->
-<!-- HERO -->
+<!-- KernelLord · profile repository · built for systems that survive contact with reality -->
 <div align="center">
-<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Two glowing eyes flanking a gold wordmark." />
+  <img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. A gold wordmark framed by glowing eyes." />
 </div>
+
+<div align="center">
+  <a href="https://github.com/KernelLord?tab=followers"><img src="https://img.shields.io/github/followers/KernelLord?label=FOLLOW%20THE%20SIGNAL&style=for-the-badge&color=8B5CF6&labelColor=0D0D0D" alt="Follow KernelLord" /></a>
+  <a href="https://github.com/KernelLord?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-OPEN-FFC83D?style=for-the-badge&labelColor=0D0D0D" alt="Open repositories" /></a>
+  <a href="https://github.com/KernelLord/KernelLord/issues"><img src="https://img.shields.io/badge/CONTACT-OPEN%20AN%20ISSUE-B11226?style=for-the-badge&labelColor=0D0D0D" alt="Open an issue" /></a>
+</div>
+
 <img width="100%" src="./assets/divider.svg" alt="" />
-<!-- INTRODUCTION -->
 
-I build and explore systems with an emphasis on performance, reliability, and security.
+## `whoami`
 
-My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronous systems, and AI. I care about understanding how things work beneath the surface — from network protocols and operating systems to application architecture and infrastructure.
+I’m **Lasha Dev** — a systems builder working where **Rust, security, infrastructure, and AI** meet.
 
-<div align="center">
-<img width="100%" src="./assets/plasma.svg" alt="Wake up to reality." />
-</div>
-<!-- REPOSITORIES -->
+I like software with a pulse: fast paths you can explain, protocols you can inspect, automation you can trust, and interfaces that make complex systems feel inevitable. This is the public command center for that work.
 
-> repositories
+> **Build quietly. Understand deeply. Ship what survives.**
 
 <div align="center">
+  <img width="100%" src="./assets/plasma.svg" alt="Wake up to reality." />
 </div>
-<!-- CURRENT WORK -->
 
-⚡ Currently in the forge
-
-<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord Sharingan" />
-<img align="left" width="118" src="./assets/fire.svg" alt="Forge ember" />
-
-Private builds. Public ambition.
-
-Exploring systems programming, security engineering, automation, and the boundaries of what’s possible with software.
-
-Build quietly. Understand deeply. Ship when it’s ready.
+## `current_mission`
 
 <div align="center">
+  <img width="82%" src="./assets/hud.svg" alt="KernelLord system monitor: systems engineering, security, AI, and infrastructure." />
 </div>
-<!-- TECHNOLOGY STACK -->
 
-> stack
+- **Systems:** Rust services, async architectures, Linux, performance, and the layers most people skip.
+- **Security:** offensive thinking, threat modeling, secure defaults, and making attack surfaces legible.
+- **AI infrastructure:** practical agent tooling, context engineering, retrieval, and the control plane around models.
+- **Operating principle:** no magic boxes — if it matters, trace it, test it, and make it observable.
+
+## `featured_builds`
+
+| Build | What it does | Signal |
+|---|---|---|
+| [**turbogem-backend**](https://github.com/KernelLord/turbogem-backend) | Hardened Rust backend with Axum, Argon2id, and ML-KEM-768 post-quantum cryptography. | `RUST` `SECURITY` `PQC` |
+| [**pickysteve**](https://github.com/KernelLord/pickysteve) | Skill router and context picker for Claude Code, Cursor, and Aider, with prompt-injection filtering for MCP. | `PYTHON` `AI` `MCP` |
+| [**awesome-secure-mcp-servers**](https://github.com/KernelLord/awesome-secure-mcp-servers) | A curated map of MCP servers with security validation through an MCP scanning pipeline. | `SECURITY` `RESEARCH` |
+| [**turbogem-audit**](https://github.com/KernelLord/turbogem-audit) | Architecture blueprint, code-review findings, audit archive, and improvement roadmap for TurboGem. | `AUDIT` `ARCHITECTURE` |
+
+[**Browse every repository →**](https://github.com/KernelLord?tab=repositories)
+
+## `stack --loaded`
 
 <div align="center">
-
-languages
-
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,python,javascript,react,html,css,bash&theme=dark&perline=10" alt="Languages: Rust, C++, C, C sharp, Python, JavaScript, React, HTML, CSS, Bash" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,c,python,typescript,javascript,bash,linux,docker,kubernetes,postgres,redis,git,vim&theme=dark&perline=7" alt="Rust, C++, C, Python, TypeScript, JavaScript, Bash, Linux, Docker, Kubernetes, PostgreSQL, Redis, Git, and Vim" />
 </div>
-<div align="center">
-
-systems · infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,redis,wasm,git,vim&theme=dark&perline=8" alt="Systems and infrastructure: Linux, Docker, Kubernetes, PostgreSQL, Redis, WebAssembly, Git, Vim" />
-</div>
-<div align="center">
-
-ai · machine learning
-
-<img src="./assets/ai.svg" alt="AI and machine learning" />
-</div>
-<div align="center">
-
-offensive security
-
-<img src="./assets/offsec.svg" alt="Offensive security tools" />
-</div>
-<!-- SKILLS RADAR -->
-
-> ./radar --scan
 
 <div align="center">
-<img width="340" src="./assets/radar.svg" alt="KernelLord skills radar — Rust, AI, Security, Web3, Systems, Async" />
+  <img src="./assets/ai.svg" alt="AI and machine learning stack" />
+  <br />
+  <img src="./assets/offsec.svg" alt="Offensive security stack" />
 </div>
-<!-- CONTRIBUTION SNAKE -->
 
-> contribution_graph --animate
+## `threat_model`
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
-  <img alt="Snake animation traversing the GitHub contribution graph" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
-</picture>
+  <img width="78%" src="./assets/threatmap.svg" alt="KernelLord threat map: inspect, isolate, harden, verify." />
 </div>
-<!-- CONTRIBUTION STREAK -->
 
-> systems_log
+I’m interested in the seam between capability and control: secure agent systems, resilient backends, protocol design, developer tooling, and the places where a single assumption can become an exploit.
+
+## `activity --watch`
 
 <div align="center">
-<img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord GitHub contribution streak" />
+  <img width="340" src="./assets/radar.svg" alt="Skills radar: Rust, AI, Security, Web3, Systems, and Async." />
 </div>
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11226,50:A855F7,100:F5B301&height=140&section=footer&reversal=true&animation=twinkling" alt="" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake.svg" />
+    <img alt="Contribution graph rendered as a neon snake" src="https://raw.githubusercontent.com/KernelLord/KernelLord/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=KernelLord&hide_border=true&background=0D0D0D&stroke=A855F7&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&currStreakNum=FFC83D&sideNums=c9d1d9&sideLabels=A855F7&dates=8B5CF6" alt="KernelLord GitHub contribution streak" />
+</div>
+
+## `connect`
+
+If you’re building something that needs to be **fast, secure, observable, or difficult to break**, [open an issue](https://github.com/KernelLord/KernelLord/issues).
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B11226,50:A855F7,100:F5B301&height=140&section=footer&reversal=true&animation=twinkling" alt="Gold, purple, and crimson animated footer" />
+</div>
