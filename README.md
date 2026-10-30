@@ -28,11 +28,6 @@ My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronou
 
 ⚡ Currently in the forge
 
-<div align="center">
-<a href="https://github.com/KernelLord"><img width="48%" src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=KernelLord&theme=tokyonight&headerStyle=mac&hostname=forge&typingSpeed=50" alt="KernelLord terminal forge status" /></a>
-<a href="https://github.com/KernelLord/pickysteve"><img width="48%" src="https://capsule-render.vercel.app/api?type=venom&color=0:B11226,50:A855F7,100:F5B301&height=220&text=ROOT%20ACCESS&fontSize=42&fontColor=FFC83D&desc=BUILD%20%7C%20BREAK%20%7C%20HARDEN&descAlignY=70&descColor=C9D1D9&stroke=8B5CF6&strokeWidth=2&animation=twinkling" alt="KernelLord root access forge panel" /></a>
-</div>
-
 Private builds. Public ambition.
 
 Exploring systems programming, security engineering, automation, and the boundaries of what’s possible with software.
