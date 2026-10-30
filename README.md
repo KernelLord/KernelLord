@@ -28,8 +28,8 @@ My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronou
 
 ⚡ Currently in the forge
 
-<img align="right" width="132" src="./assets/sharingan.svg" alt="KernelLord Sharingan" />
-<img align="left" width="118" src="./assets/fire.svg" alt="Forge ember" />
+<img align="right" width="132" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,45:A855F7,100:F5B301&height=180&section=header&text=ROOT&fontSize=24&fontColor=FFC83D&animation=twinkling&stroke=8B5CF6&strokeWidth=2" alt="Animated ROOT forge signal" />
+<img align="left" width="118" src="https://capsule-render.vercel.app/api?type=pulse&color=0:B11226,50:A855F7,100:F5B301&height=180&section=header&text=SHIP&fontSize=22&fontColor=0D0D0D&animation=blinking" alt="Animated SHIP forge signal" />
 
 Private builds. Public ambition.
 
