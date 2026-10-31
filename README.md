@@ -6,7 +6,7 @@
 -->
 <!-- HERO -->
 <div align="center">
-<img width="100%" src="./assets/banner.svg" alt="KernelLord — Lasha Dev. Two glowing eyes flanking a gold wordmark." />
+<img width="100%" src="./assets/banner-glitch.gif" alt="KernelLord animated red cosmic glitch banner" />
 </div>
 <img width="100%" src="./assets/divider.svg" alt="" />
 <!-- INTRODUCTION -->
