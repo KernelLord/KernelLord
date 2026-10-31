@@ -13,7 +13,7 @@
 
 I build and explore systems with an emphasis on performance, reliability, and security.
 
-My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronous systems, and AI. I care about understanding how things work beneath the surface — from network protocols and operating systems to application architecture and infrastructure.
+My interests span Rust, low-level engineering, Linux, cybersecurity, asynchronous systems, and AI. I care about understanding how things work beneath the surface  -  from network protocols and operating systems to application architecture and infrastructure.
 
 <div align="center">
 <img width="100%" src="./assets/plasma.svg" alt="Wake up to reality." />
@@ -69,7 +69,7 @@ offensive security
 > ./radar --scan
 
 <div align="center">
-<img width="340" src="./assets/radar.svg" alt="KernelLord skills radar — Rust, AI, Security, Web3, Systems, Async" />
+<img width="340" src="./assets/radar.svg" alt="KernelLord skills radar  -  Rust, AI, Security, Web3, Systems, Async" />
 </div>
 <!-- CONTRIBUTION SNAKE -->
 
